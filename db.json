@@ -1,0 +1,56 @@
+{
+  "users": [
+    {
+      "studId": "1",
+      "name": "Shubham kishor Kothavade",
+      "email": "shubham11@mail.com",
+      "password": "Shubh@123",
+      "mobile": "7984651320",
+      "address": "Nashik, Maharashtra",
+      "city": "nashik",
+      "state": "maharashtra",
+      "gender": "male",
+      "status": "active",
+      "id": 1
+    },
+    {
+      "studId": "3",
+      "name": "Tejal Roy",
+      "email": "Tej@mail.com",
+      "password": "Tej@123",
+      "mobile": "8574962311",
+      "address": "Delhi",
+      "city": "delhi",
+      "state": "delhi",
+      "gender": "female",
+      "status": "inactive",
+      "id": 3
+    },
+    {
+      "studId": "3",
+      "name": "Rucha",
+      "email": "rucha@mail.com",
+      "password": "rucha@123",
+      "mobile": "9632587410",
+      "address": "rucha house, nashik",
+      "city": "nashik",
+      "state": "maharashtra",
+      "gender": "female",
+      "status": "active",
+      "id": 4
+    },
+    {
+      "studId": "5",
+      "name": "Shubham Kishor Kothavade",
+      "email": "shubham@mail.com",
+      "password": "Test@09",
+      "mobile": "9011654570",
+      "address": "N-42-JC-2-26/1\nRaigad Chowk, Cidco, Nashik",
+      "city": "mumbai",
+      "state": "delhi",
+      "gender": "male",
+      "status": "active",
+      "id": 5
+    }
+  ]
+}
